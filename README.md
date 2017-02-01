@@ -2,6 +2,7 @@
 Workshop code for RISD STEAM workshop: programming mobile sound - February 1, 2017
 
 For today's session:
+
 1. Download and install Pd 0.47-1 (Pure Data) from http://msp.ucsd.edu/software.html
 2. Download MobMuPlat development package to your laptop: http://danieliglesia.com/mobmuplat/
 3. For your mobile device, download MobMuPlat either from iTunes store (iOS) or Play Store (Android).  It's a free app.
@@ -10,6 +11,7 @@ For today's session:
 6. If you have Windows + Android, file transfer should be straightforward, we'll figure it out.
 
 Agenda 7 - 10pm:
+
 1. Introduction to programming in Pure Data (Pd)
 2. Making a tone generator in Pd (sound synthesis basics)
 3. Introduction to GUI design with MobMuPlat editor
@@ -21,6 +23,7 @@ Agenda 7 - 10pm:
 9. Q & A, open work time (time permitting)
 
 Additional resources:
+
 * Fall 2016 course website for Programming Sound: Performance Systems: https://sites.google.com/a/risd.edu/greenlee_psps_fa16/
 * Code from Programming Sound: Performance Systems course at RISD: https://github.com/risd-sound/psps
 * 6lib Pd abstractions: https://github.com/risd-sound/6lib
