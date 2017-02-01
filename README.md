@@ -19,8 +19,8 @@ Workshop code for RISD STEAM workshop: programming mobile sound - February 1, 20
 3. Introduction to GUI design with MobMuPlat editor
 4. Transferring project files to your mobile device
 5. Trying out system messages for accessing device sensors (i.e. accelerometer)
-6. Making a drum machine (sampling)
-7. Making a live looper (sampling)
+6. Tour of a drum machine (sampling)
+7. Making a sample scrubber (sampling)
 8. A quick look at MobMuPlat examples
 9. Q & A, open work time (time permitting)
 
