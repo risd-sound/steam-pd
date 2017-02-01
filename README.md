@@ -32,5 +32,6 @@ Workshop code for RISD STEAM workshop: programming mobile sound - February 1, 20
 * Code from Programming Sound: Performance Systems course at RISD:  <a href="https://github.com/risd-sound/psps" target="_blank">https://github.com/risd-sound/psps</a>  
 * 6lib Pd abstractions: <a href="https://github.com/risd-sound/6lib" target="_blank">https://github.com/risd-sound/6lib</a>  
 * RISD's CTC concentration: <a href="http://ctc.risd.edu" target="_blank">http://ctc.risd.edu</a>  
+* YouTube videos by Shawn using Pd-extended (not currently supported, but most applies): https://www.youtube.com/watch?v=HrX5y-vu0j8&feature=youtu.be&list=PLyFjYyw48iUd0MLWarDxpBIqhRaMNID95
 
 ---
