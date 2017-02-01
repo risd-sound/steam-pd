@@ -3,12 +3,13 @@ Workshop code for RISD STEAM workshop: programming mobile sound - February 1, 20
 
 **For today's session:**
 
-1. Download and install Pd 0.47-1 (Pure Data) from <a href="http://msp.ucsd.edu/software.html" target="_blank">http://msp.ucsd.edu/software.html</a>
-2. Download MobMuPlat development package to your laptop: <a href="http://danieliglesia.com/mobmuplat/" target="_blank">http://danieliglesia.com/mobmuplat/</a>
-3. For your mobile device, download MobMuPlat either from iTunes store (iOS) or Play Store (Android).  It's a free app.
-4. For iOS, you'll need iTunes.  For Mac + Android, you can utilize Android file transfer:  <a href="https://www.android.com/filetransfer/" target="_blank">https://www.android.com/filetransfer/</a>  
-5. You'll need the appropriate sync cable for your device.  Alternatively you can transfer files on iOS via AirDrop (without iTunes).
-6. If you have Windows + Android, file transfer should be straightforward, we'll figure it out.
+1. You'll need a laptop (Mac or Windows), mobile device (iOS or Android), and a USB sync cable
+2. Download and install Pd 0.47-1 (Pure Data) from <a href="http://msp.ucsd.edu/software.html" target="_blank">http://msp.ucsd.edu/software.html</a>.  Put it in your Applications folder (i.e. get it out of your Downloads folder)
+3. Download MobMuPlat development package: <a href="http://danieliglesia.com/mobmuplat/" target="_blank">http://danieliglesia.com/mobmuplat/</a>. Make a new working folder on your Desktop and move the MobMuPlat package there (get it out of your Downloads folder)
+4. For your mobile device, download MobMuPlat either from iTunes store (iOS) or Google Play store (Android).  It's a free app.
+5. For iOS, you'll need iTunes.  For Mac + Android, you can use Android file transfer:  <a href="https://www.android.com/filetransfer/" target="_blank">https://www.android.com/filetransfer/</a>  
+6. You'll need the appropriate sync cable for your device.  Alternatively you can transfer files on iOS via AirDrop (without iTunes).
+7. If you have Windows + Android, file transfer should be fairly straightforward, we'll figure it out.
 
 ---
 
@@ -18,11 +19,12 @@ Workshop code for RISD STEAM workshop: programming mobile sound - February 1, 20
 2. Making a tone generator in Pd (sound synthesis basics)
 3. Introduction to GUI design with MobMuPlat editor
 4. Transferring project files to your mobile device
-5. Trying out system messages for accessing device sensors (i.e. accelerometer)
+5. Trying out system messages for accessing device sensors (i.e. accelerometer + tone generator)
 6. Tour of a drum machine (sampling)
 7. Making a sample scrubber (sampling)
-8. A quick look at MobMuPlat examples
-9. Q & A, open work time (time permitting)
+8. Q & A
+9. A quick look at MobMuPlat examples (time permitting)
+10. Open work time (time permitting)
 
 ---
 
